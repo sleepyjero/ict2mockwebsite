@@ -359,7 +359,7 @@ footer {
     padding: 20px;
     margin: 20px;
     background-color: white;
-    border: 4px solid #738a6e;
+    border: 4px solid #344c3d;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
     border-radius: 8px;
     transition: transform 0.3s ease;
@@ -606,7 +606,7 @@ footer p {
     width: 100%; /* Match the width of the campus map */
     max-width: 800px; /* Limit the size */
     margin: 0 auto 30px; /* Center align with space below */
-    border: 4px solid #738a6e;
+    border: 4px solid #344c3d;
     background-color: #f9f9f9;
     padding: 15px; /* Smaller padding to reduce size */
     box-shadow: 0 4px 8px rgba(0,0,0,0.2); /* Add 3D shadow */
